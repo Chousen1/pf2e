@@ -3,7 +3,7 @@
     "type": "system",
     "title": "Pathfinder Second Edition",
     "description": "A community contributed game system for Pathfinder Second Edition",
-    "version": "8.4.1.1",
+    "version": "8.4.1.2",
     "license": "./LICENSE",
     "manifest": "https://raw.githubusercontent.com/Chousen1/pf2e/main/system.json",
     "download": "https://github.com/Chousen1/pf2e/releases/download/pf2e-8.4.1/system.zip",
